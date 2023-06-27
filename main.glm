@@ -31,7 +31,6 @@ object meter
 {
     parent load_75;
     nominal_voltage 2401.7771;
-    phases ABC;
     object inverter // For battery #1, charging at 10 kW
     {
         rated_power 200 kW;
