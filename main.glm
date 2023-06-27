@@ -60,7 +60,7 @@ object meter
             battery_load 0 kW;
         };
     };
-    object inverter  // For battey #3, discharging at 10 kW
+    object inverter  // For battery #3, discharging at 10 kW
     {
         rated_power 200 kW;
         object battery
